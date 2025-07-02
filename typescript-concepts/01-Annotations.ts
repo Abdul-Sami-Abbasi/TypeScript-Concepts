@@ -1,6 +1,8 @@
 // 01-annotations.ts
 // Topic: Type Annotations in TypeScript
 
+// Definition: In TypeScript, annotations are how you explicitly tell the compiler what type a variable, function parameter, or return value should be.
+
 // ✅ Variable annotations
 let age: number = 25;
 let username: string = "Abdul Sami";
