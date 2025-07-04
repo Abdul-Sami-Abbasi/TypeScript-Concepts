@@ -1,6 +1,8 @@
 // 14-class-properties.ts
 // Topic: Class Property Annotations in TypeScript
 
+//Definition: Class properties in TypeScript allow you to define the structure of objects created from classes, including types for properties and methods. This helps ensure type safety and clarity in your code.
+
 // ✅ Basic class with type annotations
 class Student {
   name: string;
