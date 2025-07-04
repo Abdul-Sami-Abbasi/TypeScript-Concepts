@@ -1,6 +1,8 @@
 // 09-intersection-types.ts
 // Topic: Intersection Types in TypeScript
 
+// Definition: Intersection types allow you to combine multiple types into one. This means a value can satisfy multiple type requirements at once, which is useful for creating complex types that share properties from different sources.
+
 // ✅ Combining object types
 type Person = {
   name: string;
