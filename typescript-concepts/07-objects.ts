@@ -1,6 +1,8 @@
 // 07-objects.ts
 // Topic: Objects in TypeScript
 
+// Definition: Objects are collections of key-value pairs where keys are strings (or symbols) and values can be of any type, including other objects, arrays, or functions.
+
 // ✅ Basic object with types
 let user1: { name: string; age: number } = {
   name: "Sami",
